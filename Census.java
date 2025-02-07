@@ -11,6 +11,6 @@ class Census
 		long newPop= curPop+birth-death+imm;
 		System.out.println("current population is :"+curPop);
 
-		System.out.println("new Population is:"+ newPop);
+		System.out.println("after calculation new Population is:"+ newPop);
 	}
 }
